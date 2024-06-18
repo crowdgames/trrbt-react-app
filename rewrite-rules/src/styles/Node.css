@@ -1,0 +1,14 @@
+.layout {
+    text-align: center;
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #87979E;
+    border-radius: 10px;
+    border: 2px solid #5a6b71;
+    height: 60px;
+    width: 60px;
+}
